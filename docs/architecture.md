@@ -46,7 +46,7 @@ Ensures the integrity of the Layer 2 chain by allowing participants to challenge
 
 Below is a high-level architecture diagram of the SuperSol Sequencer.
 
-```mermaid
+```
 Users
   |
 Transaction Receiver
@@ -90,7 +90,6 @@ Bridge Contracts on Solana Layer 1 facilitate the seamless transfer of assets be
 ### Challenge Mechanism
 
 The Challenge Mechanism provides a way to ensure the integrity of the Layer 2 chain. It allows participants to submit fraud proofs if they detect invalid state transitions. This component ensures that any invalid transitions are reverted, maintaining the overall security and trustworthiness of the system.
-
 
 
 ### Sequencer Node
