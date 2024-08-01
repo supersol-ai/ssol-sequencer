@@ -1,4 +1,4 @@
-# SuperSol Sequencer
+# Sequencer
 
 ## Overview
 
